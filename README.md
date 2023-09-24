@@ -9,3 +9,5 @@ Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/Co
 2. nr_sd15_QR_Monster.json - Basic QR Code Monster SD 1.5 controlnet - make spiral art!
 
 3. nr_sd15_QR_Monster_AnimateDiff_LatentUpscale - QR Code Monster SD 1.5 controlnet - make animated spiral art!
+
+4. AnimateDIff_FreeU.png - Updated QR Code Monster SD 1.5 controlnet with AnimateDiff and FreeU
