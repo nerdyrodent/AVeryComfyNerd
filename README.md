@@ -1,5 +1,5 @@
 # AVeryComfyNerd
-ComfyUI related stuff and things
+ComfyUI - https://github.com/comfyanonymous/ComfyUI -related stuff and things!
 
 Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/ComfyUI-Manager
 
