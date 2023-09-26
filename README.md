@@ -1,5 +1,7 @@
 # AVeryComfyNerd
-ComfyUI - https://github.com/comfyanonymous/ComfyUI -related stuff and things!
+A variety of ComfyUI related stuff.
+
+ComfyUI - https://github.com/comfyanonymous/ComfyUI
 
 Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/ComfyUI-Manager
 
@@ -12,4 +14,4 @@ Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/Co
 
 4. AnimateDIff_FreeU.png - Updated QR Code Monster SD 1.5 controlnet with AnimateDiff and FreeU
    
-5. AnimateDiff_MotionLoRA.png - Montion LoRA example
+5. AnimateDiff_MotionLoRA.png - Montion LoRA example. Pan up, down, left right, etc.
