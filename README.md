@@ -14,3 +14,4 @@ Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/Co
 7. <img src="Instant_LoRA_1.png" width="256px">Instant Lora 1 - Inspired by <a href="https://civitai.com/articles/2345/aloeveras-instant-lora-no-training-15-sdxl">AloeVeras</a> (almost identical)</img>
 8. <img src="Instant_LoRA_2.png" width="256px">Instant Lora 2 - As above, but with ControlNet to guide the shape</img>
 9. <img src="Instant_LoRA_3.png" width="256px">Instant Lora 3 - As above, but with QR Code Monster ControlNet too :)</img>
+10. <img src="Instant_LoRA_4.png" width="256px">Instant Lora 4 - As above, but with upscaling</img>
