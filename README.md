@@ -8,8 +8,9 @@ Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/Co
 Upscale Wiki - https://upscale.wiki/wiki/Main_Page
 
 # Things available
-<img src="SDXL_Depth_Badger.png" width="256px"></img> | Very basic ControlNet attached to the example SDXL workflow. Canny & Depth preprocessor examples (requires extension). See https://youtu.be/reqamcrPYiM for more information.
+Workflow | Description
 | :---:   | :---: |
+<img src="SDXL_Depth_Badger.png" width="256px"></img> | Very basic ControlNet attached to the example SDXL workflow. Canny & Depth preprocessor examples (requires extension). See https://youtu.be/reqamcrPYiM for more information.
 nr_sd15_QR_Monster.json | Basic QR Code Monster SD 1.5 controlnet - make spiral art!
 nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 controlnet - make animated spiral art!
 <img src="AnimateDIff_FreeU.png" width="256px"></img> | Updated QR Code Monster SD 1.5 controlnet with AnimateDiff and FreeU  
