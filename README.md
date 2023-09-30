@@ -5,6 +5,8 @@ ComfyUI - https://github.com/comfyanonymous/ComfyUI
 
 Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/ComfyUI-Manager
 
+Many ControlNet Models - https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
+
 Upscale Wiki - https://upscale.wiki/wiki/Main_Page
 
 # Things available
