@@ -7,6 +7,8 @@ Install any missing nodes using ComfyUI Manager - https://github.com/ltdrdata/Co
 
 Many ControlNet Models - https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
 
+AnimateDiff - https://github.com/guoyww/AnimateDiff
+
 Text-to-Image models - https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
 
 Upscale Wiki - https://upscale.wiki/wiki/Main_Page
