@@ -14,6 +14,8 @@ Text-to-Image models - https://huggingface.co/models?pipeline_tag=text-to-image&
 Upscale Wiki - https://upscale.wiki/wiki/Main_Page
 
 # Things available
+Download or drag workflow images into ComfyUI to instantly load the corresponding workflow!
+
 Workflow | Description
 | :---:   | :---: |
 <img src="SDXL_Depth_Badger.png" width="256px"></img> | Very basic ControlNet attached to the example SDXL workflow. Canny & Depth preprocessor examples (requires extension). See https://youtu.be/reqamcrPYiM for more information.
