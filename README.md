@@ -1,15 +1,15 @@
 # AVeryComfyNerd
 A variety of ComfyUI related stuff.
 
-Item | Description
-| :---:   | :---: |
-ComfyUI | The main thing you'll need - https://github.com/comfyanonymous/ComfyUI
-ComfyUI Manager | Install any missing nodes using this - https://github.com/ltdrdata/ComfyUI-Manager
-Text-to-Image models | Many models at https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
-ControlNet Models | Many models at https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
-AnimateDiff | Original repo, many links and more info - https://github.com/guoyww/AnimateDiff
-IPAdapter models | Many models - https://huggingface.co/h94/IP-Adapter
-Upscale Wiki | Many models & info https://upscale.wiki/wiki/Main_Page
+Item | Description | Link
+| :---:   | :---: | :---: | 
+ComfyUI | The main thing you'll need | https://github.com/comfyanonymous/ComfyUI
+ComfyUI Manager | Install any missing nodes using this | https://github.com/ltdrdata/ComfyUI-Manager
+Text-to-Image models | Many models | https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
+ControlNet Models | Many models | https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
+AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
+IPAdapter models | Many models | https://huggingface.co/h94/IP-Adapter
+Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 
 # Things available
 Download or drag workflow images into ComfyUI to instantly load the corresponding workflow!
