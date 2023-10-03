@@ -3,8 +3,7 @@ A variety of ComfyUI related stuff.
 
 Item | Description
 | :---:   | :---: |
-ComfyUI | The main thing you'll need 
-- https://github.com/comfyanonymous/ComfyUI
+ComfyUI | The main thing you'll need - https://github.com/comfyanonymous/ComfyUI
 ComfyUI Manager | Install any missing nodes using this - https://github.com/ltdrdata/ComfyUI-Manager
 Text-to-Image models | Many models at https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
 ControlNet Models | Many models at https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
