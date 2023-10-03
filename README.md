@@ -1,5 +1,6 @@
-# AVeryComfyNerd
-A variety of ComfyUI related stuff.
+# Resources
+A variety of ComfyUI related stuff. You'll need different models for different workflows. By default, models are saved in subdirectories under ``ComfyUI/models``.
+Note that some custom nodes have their own models directory.
 
 Item | Description | Link
 | :---:   | :---: | :---: | 
@@ -11,7 +12,7 @@ AnimateDiff | Original repo, many links and more info | https://github.com/guoyw
 IPAdapter models | Many models | https://huggingface.co/h94/IP-Adapter
 Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 
-# Things available
+# Workflows available
 Download or drag workflow images into ComfyUI to instantly load the corresponding workflow!
 
 Workflow | Description
@@ -25,5 +26,5 @@ nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 controlnet
 <img src="Instant_LoRA_2.png" width="256px"></img>|Instant Lora 2 - As above, but with ControlNet to guide the shape
 <img src="Instant_LoRA_3.png" width="256px"></img>|Instant Lora 3 - As above, but with QR Code Monster ControlNet too :)
 <img src="Instant_LoRA_4.png" width="256px"></img>|Instant Lora 4 - As above, but with upscaling
-<img src="Instant_LoRA_5.png" width="256px"></img>|Instant Lora 5 - As above, but with more upscaling
+<img src="Instant_LoRA_5.png" width="256px"></img>|Instant Lora 5 - As above, but with more upscaling. Go to 16k+ XD
 <img src="Instant_LoRA_6.png" width="256px"></img>|Instant Lora 6 - As above, but different upscaling
