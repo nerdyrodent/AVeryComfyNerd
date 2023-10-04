@@ -28,4 +28,4 @@ nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 controlnet
 <img src="Instant_LoRA_4.png" width="256px"></img>|Instant Lora 4 - As above, but with upscaling
 <img src="Instant_LoRA_5.png" width="256px"></img>|Instant Lora 5 - As above, but with more upscaling. Go to 16k+ XD
 <img src="Instant_LoRA_6.png" width="256px"></img>|Instant Lora 6 - As above, but different upscaling
-<img src="PromptTravel_AnimateDiff_IPAdapter.png" width="256px"></img>|AnimateDiff with any length plus IPAdapter & Upscaling
+<img src="PromptTravel_AnimateDiff_IPAdapter.png" width="256px"></img>|AnimateDiff with any length plus IPAdapter & Upscaling. Needs 2 extra models: https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models". https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> "models/clipvision".
