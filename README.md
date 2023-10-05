@@ -12,6 +12,7 @@ TIAdapter | Models | https://github.com/TencentARC/T2I-Adapter
 AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
 IPAdapter models | Models | https://huggingface.co/h94/IP-Adapter
 Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
+Artist Style Studies | Prompt output examples for inspiration | https://sdxl.parrotzone.art/
 
 # Workflows available
 Download or drag workflow images into ComfyUI to instantly load the corresponding workflow!
