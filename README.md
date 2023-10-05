@@ -4,13 +4,14 @@ Note that some custom nodes have their own models directory.
 
 Item | Description | Link
 | :---:   | :---: | :---: | 
-ComfyUI | The main thing you'll need | https://github.com/comfyanonymous/ComfyUI
+ComfyUI | The main thing you'll need! | https://github.com/comfyanonymous/ComfyUI
 ComfyUI Manager | Install any missing nodes using this | https://github.com/ltdrdata/ComfyUI-Manager
-Stability AI | Many Models | https://huggingface.co/stabilityai
-Text-to-Image models | Many models | https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
-ControlNet Models | Many models | https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
+Stability AI | Models & VAEs | https://huggingface.co/stabilityai
+Text-to-Image models | Text-2-image models | https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
+ControlNet Models | Models | https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
+TIAdapter | Models | https://github.com/TencentARC/T2I-Adapter
 AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
-IPAdapter models | Many models | https://huggingface.co/h94/IP-Adapter
+IPAdapter models | Models | https://huggingface.co/h94/IP-Adapter
 Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 
 # Workflows available
