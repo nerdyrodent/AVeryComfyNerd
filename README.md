@@ -18,7 +18,7 @@ Download or drag workflow images into ComfyUI to instantly load the correspondin
 
 Workflow | Description
 | :---:   | :---: |
-<img src="SDXL_Depth_Badger.png" width="256px"></img> | Very basic ControlNet attached to the example SDXL workflow. Canny & Depth preprocessor examples (requires extension). See https://youtu.be/reqamcrPYiM for more information.
+<img src="SDXL_Depth_Badger.png" width="256px"></img> | Very basic ControlNet attached to the example SDXL workflow. <br>Canny & Depth preprocessor examples (requires extension).<br>See https://youtu.be/reqamcrPYiM for more information.
 nr_sd15_QR_Monster.json | Basic QR Code Monster SD 1.5 controlnet - make spiral art!
 nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 controlnet - make animated spiral art!
 <img src="AnimateDIff_FreeU.png" width="256px"></img> | Updated QR Code Monster SD 1.5 controlnet with AnimateDiff and FreeU  
@@ -29,4 +29,4 @@ nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 controlnet
 <img src="Instant_LoRA_4.png" width="256px"></img>|Instant Lora 4 - As above, but with upscaling
 <img src="Instant_LoRA_5.png" width="256px"></img>|Instant Lora 5 - As above, but with more upscaling. Go to 16k+ XD
 <img src="Instant_LoRA_6.png" width="256px"></img>|Instant Lora 6 - As above, but different upscaling
-<img src="PromptTravel_AnimateDiff_IPAdapter.png" width="256px"></img>|AnimateDiff with any length plus IPAdapter & Upscaling. Needs 2 extra models: https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models". https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> "models/clipvision".
+<img src="PromptTravel_AnimateDiff_IPAdapter.png" width="256px"></img>|AnimateDiff with any length plus IPAdapter & Upscaling.<br>Needs 2 extra models: https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models".<br>https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> "models/clipvision".<br>Video guide - https://youtu.be/6A3a0QNPhIs
