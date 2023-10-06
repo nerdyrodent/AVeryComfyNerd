@@ -3,7 +3,7 @@ A variety of ComfyUI related stuff. You'll need different models for different w
 
 Item | Description | Link
 | --- | --- | --- | 
-ComfyUI | The main thing you'll need! | https://github.com/comfyanonymous/ComfyUI
+ComfyUI | The main thing you'll need! | https://github.com/comfyanonymous/ComfyUI<br>See https://youtu.be/2r3uM_b3zA8 for an install guide
 ComfyUI Manager | Install any missing nodes using this | https://github.com/ltdrdata/ComfyUI-Manager
 Stability AI | Models & VAEs | https://huggingface.co/stabilityai
 Text-to-Image models | Text-2-image models | https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
