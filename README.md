@@ -33,3 +33,7 @@ nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 controlnet
 <img src="Instant_LoRA_6.png" width="256px"></img>|Instant Lora 6<br>As above, but different upscaling to 16k+
 <img src="PromptTravel_AnimateDiff_IPAdapter.png" width="256px"></img>|Morphing AI videos of any length using AnimateDiff. SD 1.5. Includes IPAdapter & Upscaling. IP Adapter models:<br>**1.** https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models".<br>**2.** https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> "models/clipvision".<br>**Video guide** - https://youtu.be/6A3a0QNPhIs
 <img src="PromptTravel_AnimateDiff.png" width="256px"></img>|Morphing AI videos of any length using AnimateDiff. SD 1.5. Includes Upscaling. Like above, but without IPAdapter controls.
+<img src="Instant_LoRA_X.png" width="256px"></img>|Workflow<br>Uses SDXL IP Adapter - https://huggingface.co/h94/IP-Adapter
+<img src="SDXL_Instant_LoRA_1.png" width="256px"></img>|Workflow<br>Uses SDXL IP Adapter - https://huggingface.co/h94/IP-Adapter
+<img src="SDXL_Instant_LoRA_2.png" width="256px"></img>|Workflow<br>Uses SDXL IP Adapter - https://huggingface.co/h94/IP-Adapter<br>Also use "Revisions" CLIP vision - https://huggingface.co/stabilityai/control-lora
+<img src="SDXL_Instant_LoRA_3.png" width="256px"></img>|Workflow<br>Uses SDXL IP Adapter - https://huggingface.co/h94/IP-Adapter<br>Also use "Revisions" CLIP vision - https://huggingface.co/stabilityai/control-lora
