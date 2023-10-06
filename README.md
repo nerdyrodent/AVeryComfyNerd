@@ -1,7 +1,7 @@
 # Resources
 A variety of ComfyUI related stuff. You'll need different models for different workflows. By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 
-For a playlist with loads of ComfyUI guides, see https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa
+[Playlist with loads of ComfyUI guides](https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa)
 
 Item | Description | Link
 | --- | --- | --- | 
