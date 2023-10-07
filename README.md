@@ -38,3 +38,4 @@ nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 controlnet
 <img src="SDXL_Instant_LoRA_1.png" width="256px"></img>|SDXL "Instant LoRA" - basic<br>Uses SDXL IP Adapter - https://huggingface.co/h94/IP-Adapter
 <img src="SDXL_Instant_LoRA_2.png" width="256px"></img>|SDXL "Instant LoRA" - with CLIP Vision<br>Uses SDXL IP Adapter - https://huggingface.co/h94/IP-Adapter<br>Also use "Revisions" CLIP vision - https://huggingface.co/stabilityai/control-lora
 <img src="SDXL_Instant_LoRA_3.png" width="256px"></img>|SDXL "Instant LoRA" - with CLIP Vision & ControlNet<br>Uses SDXL IP Adapter - https://huggingface.co/h94/IP-Adapter<br>Also use "Revisions" CLIP vision - https://huggingface.co/stabilityai/control-lora
+<img src="AnimateDiff_QRCode_Video.png" width="256px"></img>|AnimateDiff + QRCode (Vid2vid)
