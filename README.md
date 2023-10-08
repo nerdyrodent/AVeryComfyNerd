@@ -9,7 +9,8 @@ ComfyUI | The main thing you'll need! | https://github.com/comfyanonymous/ComfyU
 ComfyUI Manager | Install any missing nodes using this | https://github.com/ltdrdata/ComfyUI-Manager
 Stability AI | Models & VAEs | https://huggingface.co/stabilityai
 Text-to-Image models | Text-2-image models | https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
-ControlNet Models | Control Models | https://huggingface.co/lllyasviel/sd_control_collection/tree/main<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
+ControlNet Models | ControlNet Models | https://huggingface.co/lllyasviel/sd_control_collection/tree/main<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
+QR Code Monster Control Net | ControlNet Model | https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster
 TIAdapter | Control Models | https://github.com/TencentARC/T2I-Adapter
 Control LoRA | Control Models | https://huggingface.co/stabilityai/control-lora
 AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
