@@ -1,8 +1,8 @@
 # Resources
 A variety of ComfyUI related stuff. You'll need different models and custom nodes for each different workflow.
-<br>By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
-<br>Use **ComfyUI Manager** to install missing custom nodes.
-<br>Be sure to keep ComfyUI updated regularly - including all custom nodes.
+* By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
+* Use **ComfyUI Manager** to install missing custom nodes.
+* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes.
 
 [Playlist with loads of ComfyUI guides](https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa)
 
