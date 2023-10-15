@@ -48,5 +48,5 @@ nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 ControlNet
 <img src="Reposer_plus.png" width="256px"></img>|SD 1.5 Reposer Plus - single face image to any pose. Get consistent faces!<br>Now also includes a supporting image for addings things like outfits<br>**No** "roop" or similar face-swapping nodes required = easy install!<br>SD 1.5 ControlNet models:<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main<br>IP Adapter models:<br>**1.** https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus-face_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models".<br>**2.** https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> "models/clip_vision".<br>**3.** https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models".<br>IPAdapter Extension - https://github.com/laksjdjf/IPAdapter-ComfyUI<br>**Video guide** - https://youtu.be/SacK9tMVNUA
 
 # Custom Node List
-The current custom node list is shown in the image below: <br>
+The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
 <img src="Custom_Nodes.png" width="512px">
