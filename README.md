@@ -27,8 +27,8 @@ In ComfyUI the image IS the workflow. Simply drag or load a workflow image into 
 Workflow | Description
 | --- | --- |
 <img src="SDXL_Depth_Badger.png" width="256px"></img> | Simple SDXL ControlNet workflow.<br>Introductory SDXL Canny & Depth ControlNet example.<br>See https://youtu.be/reqamcrPYiM for more information.
-nr_sd15_QR_Monster.json | Basic QR Code Monster SD 1.5 ControlNet - make spiral art!<br>See also - https://youtu.be/D4oJz0w36ps
-nr_sd15_QR_Monster_AnimateDiff_LatentUpscale | QR Code Monster SD 1.5 ControlNet - make animated spiral art!<br>See also: https://youtu.be/D4oJz0w36ps
+<img src="nr_sd15_QR_Monster.png" width="256px"></img>| Basic QR Code Monster SD 1.5 ControlNet - make spiral art!<br>See also - https://youtu.be/D4oJz0w36ps
+<img src="nr_sd15_QR_Monster_AnimateDiff_LatentUpscale.png " width="256px"></img>| QR Code Monster SD 1.5 ControlNet - make animated spiral art!<br>See also: https://youtu.be/D4oJz0w36ps
 <img src="AnimateDIff_FreeU.png" width="256px"></img> | Updated QR Code Monster SD 1.5 ControlNet with AnimateDiff and FreeU<br>Works best with the v1 QR Code Monster - https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster
 <img src="AnimateDiff_MotionLoRA.png" width="256px"></img> | AnimateDiff with Montion LoRA example. Pan up, down, left right, etc. SD 1.5
 <img src="Instant_LoRA_1.png" width="256px"></img>|Instant LoRA 1<br>Inspired by <a href="https://civitai.com/articles/2345/aloeveras-instant-lora-no-training-15-sdxl">AloeVera</a> (almost identical).<br>Really simple, no training, "LoRA" like functionality.<br>SD 1.5. IP Adapter models:<br>**1.** https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models".<br>**2.** https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> "models/clip_vision".<br>**Video guide** - https://youtu.be/HtmIC6fqsMQ
