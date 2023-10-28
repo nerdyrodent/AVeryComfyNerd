@@ -2,11 +2,12 @@
 A variety of ComfyUI related stuff. You'll need different models and custom nodes for each different workflow.
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * Use **ComfyUI Manager** to install missing custom nodes.
-* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes.
+* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 * These are just workflows - no custom nodes here, so no code!
 * The Microsoft Windows portable version of ComfyUI apparently has issues with various custom nodes, whereas normal installs are OK. Unknown error? Try a normal install!
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
+* Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager!
 * Need more help? See this [Playlist with loads of ComfyUI guides](https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa)
 
 Item | Description | Link
@@ -26,7 +27,7 @@ Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdxl.parrotzone.art/
 
 # Workflows available
-In ComfyUI the image IS the workflow. Simply drag or load a workflow image into ComfyUI!
+In ComfyUI the image **IS** the workflow. Simply drag or load a workflow image into ComfyUI!
 
 Workflow | Description
 | --- | --- |
@@ -51,8 +52,7 @@ Workflow | Description
 <img src="Reposer_plus.png" width="256px"></img>|SD 1.5 Reposer Plus - single face image to any pose. Get consistent faces!<br>Now also includes a supporting image for addings things like outfits<br>**No** "roop" or similar face-swapping nodes required = easy install!<br>SD 1.5 ControlNet models:<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main<br>IP Adapter models:<br>**1.** https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus-face_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models".<br>**2.** https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> "models/clip_vision".<br>**3.** https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus_sd15.bin -> "custom_nodes/IPAdapter-ComfyUI/models".<br>IPAdapter Extension - https://github.com/laksjdjf/IPAdapter-ComfyUI<br>**Video guide** - https://youtu.be/ZcCfwTkYSz8
 <img src="Reposer_Plus_bypass.png" width="256px"></img>|As above, but with a full bypass option for segment anything
 <img src="Reposer_Plus_BG.png" width="256px"></img>|As above, but with a full bypass option for segment anything and options for black, white or noisy backgrounds.
-WIP|Video Styler! Combining IPAdapter with Video-to-video for strange styles and weird animations<br>Uses https://github.com/cubiq/ComfyUI_IPAdapter_plus<br>The pre-trained models are available on [huggingface](https://huggingface.co/h94/IP-Adapter), download and place them in the ```ComfyUI/custom_nodes/ComfyUI_IPAdapter_plus/models``` directory.<br>For SD1.5 you need:<br>* ip-adapter_sd15.bin<br>* ip-adapter_sd15_light.bin<br>* ip-adapter-plus_sd15.bin<br>* ip-adapter-plus-face_sd15.bin<br>Additionally you need the image encoder to be placed in the ```ComfyUI/models/clip_vision/``` directory.<br>They are the same models used by the _other_ IPAdpater custom nodes ;)
-
+WIP|Video Styler! Combining IPAdapter with Video-to-video for strange styles and weird animations<br>Uses https://github.com/cubiq/ComfyUI_IPAdapter_plus<br>The pre-trained models are available on [huggingface](https://huggingface.co/h94/IP-Adapter), download and place them in the ```ComfyUI/custom_nodes/ComfyUI_IPAdapter_plus/models``` directory.<br>For SD1.5 you need:<br>* ip-adapter_sd15.bin<br>* ip-adapter_sd15_light.bin<br>* ip-adapter-plus_sd15.bin<br>* ip-adapter-plus-face_sd15.bin<br>Additionally you need the image encoder to be placed in the ```ComfyUI/models/clip_vision/``` directory.<br>They are the same models used by the _other_ IPAdapter custom nodes ;) - symlinks are your friend!
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
