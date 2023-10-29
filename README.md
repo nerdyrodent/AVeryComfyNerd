@@ -26,6 +26,12 @@ IPAdapter models | Models | https://huggingface.co/h94/IP-Adapter
 Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdxl.parrotzone.art/
 
+# Updating / Installing Custom Nodes
+* Use ComfyUI Manager to install and update custom nodes with ease!
+* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
+
+![image](https://github.com/nerdyrodent/AVeryComfyNerd/assets/74688049/7a2bcb14-1e27-4eee-8f92-b6c9ef813d90)
+
 # Workflows available
 In ComfyUI the image **IS** the workflow. Simply drag or load a workflow image into ComfyUI!
 
