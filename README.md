@@ -8,6 +8,7 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
 * Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager!
+* Custom node still red after installing it - did you remember to restart ComfyUI?
 * Need more help? See this [Playlist with loads of ComfyUI guides](https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa)
 
 Item | Description | Link
@@ -28,6 +29,7 @@ Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdx
 
 # Updating / Installing Custom Nodes
 * Use ComfyUI Manager to install and update custom nodes with ease!
+* Click "Install Missing Custom Nodes" to install any red nodes
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 
 ![image](https://github.com/nerdyrodent/AVeryComfyNerd/assets/74688049/7a2bcb14-1e27-4eee-8f92-b6c9ef813d90)
