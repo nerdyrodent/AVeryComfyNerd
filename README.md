@@ -23,7 +23,7 @@ QR Code Monster Control Net | ControlNet Model | https://huggingface.co/monster-
 TIAdapter | Control Models | https://github.com/TencentARC/T2I-Adapter
 Control LoRA | Control Models | https://huggingface.co/stabilityai/control-lora
 AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
-IPAdapter Extension | Custom Nodes for ComfyUI | https://github.com/laksjdjf/IPAdapter-ComfyUI
+Original IPAdapter Extension | Custom Nodes for ComfyUI | https://github.com/laksjdjf/IPAdapter-ComfyUI
 IPAdapter models | Models | https://huggingface.co/h94/IP-Adapter
 Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdxl.parrotzone.art/
