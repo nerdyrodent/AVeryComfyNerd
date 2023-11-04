@@ -10,6 +10,9 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 * Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model)
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
+* Sometimes custom nodes change functionality, such as:
+  * Segement anything - mask output inverted
+  * Dynamic Thresholding - output different
 * Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager
 * Custom node still red after installing it? Remember to restart ComfyUI!
 * Custom node still giving an error? Check the GitHub page for that custom node
