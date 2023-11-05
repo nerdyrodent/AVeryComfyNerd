@@ -41,7 +41,7 @@ Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdx
 * Click "Install Missing Custom Nodes" to install any red nodes
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 
-![image](https://github.com/nerdyrodent/AVeryComfyNerd/assets/74688049/7a2bcb14-1e27-4eee-8f92-b6c9ef813d90)
+<img src="ComfyUI_Manager.png" width="720px"></img>
 
 # Workflows available
 In ComfyUI the image **IS** the workflow. Simply drag or load a workflow image into ComfyUI!
@@ -74,4 +74,7 @@ Workflow | Description | Version
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
-<img src="Custom_Nodes.png" width="512px">
+Install custom nodes using ComfyUI manager<br>
+<img src="ComfyUI_Custom_1.png" width="720px"><br>
+<img src="ComfyUI_Custom_1.png" width="720px"><br>
+<img src="ComfyUI_Custom_1.png" width="720px"><br>
