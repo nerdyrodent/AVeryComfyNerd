@@ -76,5 +76,5 @@ Workflow | Description | Version
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
 Install custom nodes using ComfyUI manager<br>
 <img src="ComfyUI_Custom_1.png" width="720px"><br>
-<img src="ComfyUI_Custom_1.png" width="720px"><br>
-<img src="ComfyUI_Custom_1.png" width="720px"><br>
+<img src="ComfyUI_Custom_2.png" width="720px"><br>
+<img src="ComfyUI_Custom_3.png" width="720px"><br>
