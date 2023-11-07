@@ -26,6 +26,7 @@ ComfyUI | The main thing you'll need! | https://github.com/comfyanonymous/ComfyU
 ComfyUI Manager | Install any missing nodes using this | https://github.com/ltdrdata/ComfyUI-Manager
 Stability AI | Models & VAEs | https://huggingface.co/stabilityai
 Text-to-Image models | Text-2-image models | https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
+SSD-1B | Text2-image model | https://huggingface.co/segmind/SSD-1B
 ControlNet Models | ControlNet Models | https://huggingface.co/lllyasviel/sd_control_collection/tree/main<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
 QR Code Monster Control Net | ControlNet Model | https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster
 TIAdapter | Control Models | https://github.com/TencentARC/T2I-Adapter
@@ -68,7 +69,7 @@ Workflow | Description | Version
 <img src="Reposer.png" width="256px"></img><br><img src="Reposer_Plus_bypass.png" width="256px"></img><br><img src="Reposer_Plus_BG.png" width="256px"></img>|SD 1.5 Reposer (3 versions) - single face image to any pose. Get consistent faces!<br>**No** "roop" or similar face-swapping nodes required = easy install!<br>SD 1.5 ControlNet models:<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main<br>IP Adapter models:<br>**1.** https://huggingface.co/h94/IP-Adapter/blob/main/models/ip-adapter-plus-face_sd15.bin -> ```custom_nodes/IPAdapter-ComfyUI/models```.<br>**2.** https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors -> ```models/clip_vision```.<br>IPAdapter Extension - https://github.com/laksjdjf/IPAdapter-ComfyUI<br>Updated due to node changes - now also with fewer noodles!<br>Reposer, Reposer Plus and Reposer Plus BG<br>**Reposer Basic Video guide** - https://youtu.be/SacK9tMVNUA<br>**Reposer Plus Video guide** - https://youtu.be/ZcCfwTkYSz8 | SD 1.5
 <img src="Video_Restyler.png" width="256px">|SD 1.5 Video Styler! Combining IPAdapter with Video-to-video for strange styles and weird animations<br>Uses https://github.com/cubiq/ComfyUI_IPAdapter_plus<br>The pre-trained models are available on [huggingface](https://huggingface.co/h94/IP-Adapter), download and place them in the ```ComfyUI/custom_nodes/ComfyUI_IPAdapter_plus/models``` directory.<br>For SD1.5 you need:<br>* ip-adapter_sd15.bin<br>* ip-adapter_sd15_light.bin<br>* ip-adapter-plus_sd15.bin<br>* ip-adapter-plus-face_sd15.bin<br>Additionally you need the image encoder to be placed in the ```ComfyUI/models/clip_vision/``` directory.<br>They are the same models used by the _other_ IPAdapter custom nodes ;) - symlinks are your friend! | SD 1.5
 <img src="SDXL_Reposer_Basic.png" width="256px">|SDXL version of Reposer using the SDXL "IPAdapter Plus Face" model<br>Pick a face then add a body in any pose - no training!<br>Works with photorealistic faces, anime faces, cartoon faces, etc | SDXL
-<img src="SSD1B-SDXL-8GB.png" width="256px">|SSD-1B Workflow - SDXL for 8GB VRAM cards!<br>Video - https://youtu.be/F-bKndyQ7L8|SDXL
+<img src="SSD1B-SDXL-8GB.png" width="256px">|SSD-1B Workflow - SDXL for 8GB VRAM cards!<br>Model - https://huggingface.co/segmind/SSD-1B<br>Video - https://youtu.be/F-bKndyQ7L8|SDXL
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
