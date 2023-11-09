@@ -3,7 +3,8 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 
 # Trobleshooting
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
-* Use **ComfyUI Manager** to install missing custom nodes.
+* Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
+* If ComfyUI Manager can't find a node automatically, use the _search_ feature
 * When troubleshooting, do all of these steps in order
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 * These are just workflows - no custom nodes here, so no code!
