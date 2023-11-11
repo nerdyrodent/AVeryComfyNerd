@@ -35,6 +35,7 @@ Control LoRA | Control Models | https://huggingface.co/stabilityai/control-lora
 AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
 Original IPAdapter Extension | Custom Nodes for ComfyUI | https://github.com/laksjdjf/IPAdapter-ComfyUI
 IPAdapter models | Models | https://huggingface.co/h94/IP-Adapter
+Latent Consistency Models | Models | https://huggingface.co/latent-consistency
 Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdxl.parrotzone.art/
 
