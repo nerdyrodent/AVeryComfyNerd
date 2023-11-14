@@ -8,7 +8,7 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 * When troubleshooting, do all of these steps in order
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 * These are just workflows - no custom nodes here, so no code!
-* Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model)
+* Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
 * Sometimes custom nodes change functionality, such as:
@@ -30,7 +30,8 @@ Text-to-Image models | Text-2-image models | https://huggingface.co/models?pipel
 SSD-1B | Text2-image model | https://huggingface.co/segmind/SSD-1B
 ControlNet Models | ControlNet Models | https://huggingface.co/lllyasviel/sd_control_collection/tree/main<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
 QR Code Monster Control Net | ControlNet Model | https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster
-TIAdapter | Control Models | https://github.com/TencentARC/T2I-Adapter
+T2IAdapter | Github Repo | https://github.com/TencentARC/T2I-Adapter
+IP Adpater | Github Repo | https://github.com/tencent-ailab/IP-Adapter
 Control LoRA | Control Models | https://huggingface.co/stabilityai/control-lora
 AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
 Original IPAdapter Extension | Custom Nodes for ComfyUI | https://github.com/laksjdjf/IPAdapter-ComfyUI
