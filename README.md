@@ -4,7 +4,7 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 # Trobleshooting
 * These workflows require ComfyUI to run. See the resources section below.
 * These are just workflows - no custom nodes here, so no code!
-* When troubleshooting, do _all_ of these steps in order
+* When troubleshooting, do _all_ of these steps until resolution
 * Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * If ComfyUI Manager can't find a node automatically, use the _search_ feature
