@@ -5,14 +5,14 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 * These workflows require ComfyUI to run. See the resources section below.
 * These are just workflows - no custom nodes here, so no code!
 * When troubleshooting, do _all_ of these steps until resolution
+ __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 * Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
-* By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * If ComfyUI Manager can't find a node automatically, use the _search_ feature
-* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
+* By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
-* Sometimes custom nodes change functionality, such as:
+* Sometimes custom nodes change functionality, so check for updates. Changes include:
   * Segement anything - mask output inverted
   * Dynamic Thresholding - output different
   * The original IPAdapter is becoming deprecated
