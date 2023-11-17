@@ -44,6 +44,7 @@ Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdx
 # Updating / Installing Custom Nodes
 * Use ComfyUI Manager to install and update custom nodes with ease!
 * Click "Install Missing Custom Nodes" to install any red nodes
+* Use the "search" feature to find any nodes
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 
 <img src="ComfyUI_Manager.png" width="720px"></img>
