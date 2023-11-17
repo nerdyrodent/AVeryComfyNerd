@@ -15,6 +15,7 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 * Sometimes custom nodes change functionality, such as:
   * Segement anything - mask output inverted
   * Dynamic Thresholding - output different
+  * The original IPAdapter is becoming deprecated
 * Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager
 * Custom node still red after installing it? Remember to restart ComfyUI!
 * Custom node still giving an error? Check the GitHub page for that custom node
@@ -31,12 +32,11 @@ Text-to-Image models | Text-2-image models | https://huggingface.co/models?pipel
 SSD-1B | Text2-image model | https://huggingface.co/segmind/SSD-1B
 ControlNet Models | ControlNet Models | https://huggingface.co/lllyasviel/sd_control_collection/tree/main<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
 QR Code Monster Control Net | ControlNet Model | https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster
-T2IAdapter | Github Repo | https://github.com/TencentARC/T2I-Adapter
 IP Adpater | Github Repo | https://github.com/tencent-ailab/IP-Adapter
+IP Adapter models | Models | https://huggingface.co/h94/IP-Adapter
+T2I Adapter | Github Repo | https://github.com/TencentARC/T2I-Adapter
 Control LoRA | Control Models | https://huggingface.co/stabilityai/control-lora
 AnimateDiff | Original repo, many links and more info | https://github.com/guoyww/AnimateDiff
-Original IPAdapter Extension | Custom Nodes for ComfyUI | https://github.com/laksjdjf/IPAdapter-ComfyUI
-IPAdapter models | Models | https://huggingface.co/h94/IP-Adapter
 Latent Consistency Models | Models | https://huggingface.co/latent-consistency
 Upscale Wiki | Many models & info | https://upscale.wiki/wiki/Main_Page
 Artist Style Studies | SDXL Prompt output examples for inspiration | https://sdxl.parrotzone.art/
