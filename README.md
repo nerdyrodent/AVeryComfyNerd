@@ -2,12 +2,13 @@
 A variety of ComfyUI related stuff. You'll need different models and custom nodes for each different workflow.
 
 # Trobleshooting
-* By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
-* Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
-* If ComfyUI Manager can't find a node automatically, use the _search_ feature
-* When troubleshooting, do all of these steps in order
-* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
+* These workflows require ComfyUI to run. See the resources section below.
 * These are just workflows - no custom nodes here, so no code!
+* When troubleshooting, do _all_ of these steps in order
+* Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
+* By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
+* If ComfyUI Manager can't find a node automatically, use the _search_ feature
+* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 * Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
@@ -74,6 +75,7 @@ Workflow | Description | Version
 <img src="SDXL_Reposer_Basic.png" width="256px">|SDXL version of Reposer using the SDXL "IPAdapter Plus Face" model<br>Pick a face then add a body in any pose - no training!<br>Works with photorealistic faces, anime faces, cartoon faces, etc | SDXL
 <img src="SSD1B-SDXL-8GB.png" width="256px">|SSD-1B Workflow - SDXL for 8GB VRAM cards!<br>Model - https://huggingface.co/segmind/SSD-1B<br>Video - https://youtu.be/F-bKndyQ7L8|SSD-1B
 <img src="LCM_LoRA_Compare.png" width="256px">|LCM LoRA vs Normal|1.5, SDXL, SSD-1B
+<img src="SD15_IPAdapterMask_Upscale.png" width="256px">|IPAdapter Attention Masking Example<br>**Video** https://youtu.be/riLmjBlywcg|1.5
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
