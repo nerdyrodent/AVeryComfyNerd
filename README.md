@@ -77,6 +77,7 @@ Workflow | Description | Version
 <img src="SSD1B-SDXL-8GB.png" width="256px">|SSD-1B Workflow - SDXL for 8GB VRAM cards!<br>Model - https://huggingface.co/segmind/SSD-1B<br>Video - https://youtu.be/F-bKndyQ7L8|SSD-1B
 <img src="LCM_LoRA_Compare.png" width="256px">|LCM LoRA vs Normal|1.5, SDXL, SSD-1B
 <img src="SD15_IPAdapterMask_Upscale.png" width="256px">|IPAdapter Attention Masking Example<br>**Video** https://youtu.be/riLmjBlywcg|1.5
+<img src="SD15_LCM_IPAdapter_Facefix.png" width="256px">|IPAdapter Attention Masking Example with extra toppings (LCM, Facefix)<br>**Video** https://youtu.be/riLmjBlywcg|1.5
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
