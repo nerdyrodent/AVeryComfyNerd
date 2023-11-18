@@ -8,6 +8,8 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing.
 * Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
 * If ComfyUI Manager can't find a node automatically, use the _search_ feature
+* Custom node still red after installing it? Remember to restart ComfyUI!
+* Custom node still giving an error? Check the GitHub page for that custom node - maybe someone else has a similar issue open?
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
@@ -17,8 +19,6 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
   * Dynamic Thresholding - output different
   * The original IPAdapter is becoming deprecated
 * Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager
-* Custom node still red after installing it? Remember to restart ComfyUI!
-* Custom node still giving an error? Check the GitHub page for that custom node
 * The Microsoft Windows portable version of ComfyUI apparently has issues with various custom nodes, whereas normal installs are OK. Unknown error? Try a normal install!
 * Need more help? See this [Playlist with loads of ComfyUI guides](https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa)
 
