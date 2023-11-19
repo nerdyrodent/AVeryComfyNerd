@@ -2,10 +2,11 @@
 A variety of ComfyUI related stuff. You'll need different models and custom nodes for each different workflow.
 
 # Trobleshooting
-* These workflows require ComfyUI to run. See https://youtu.be/2r3uM_b3zA8 for an install guide
-* Need a model or checkpoint? See the resources section below!
-* These are just workflows - no custom nodes here, so no code to go wrong :)
 * When troubleshooting, it's best to do _all_ of these steps until resolution
+* These workflows require ComfyUI to run. See https://youtu.be/2r3uM_b3zA8 for an install guide
+* Install **ComfyUI Manager** next - https://github.com/ltdrdata/ComfyUI-Manager
+* Need a model or checkpoint? See the resources section below!
+* These are just workflows - no custom nodes here, so no code to go wrong :) Scroll down to see the table of workflows and their descriptions.
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing. This is the most common issue, so update now!
 * Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
 * If ComfyUI Manager can't find a node automatically, use the _search_ feature
