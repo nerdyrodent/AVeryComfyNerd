@@ -1,8 +1,8 @@
 # Overview
 A variety of ComfyUI related stuff. You'll need different models and custom nodes for each different workflow.
 
-# Trobleshooting
-* When troubleshooting, it's best to do _all_ of these steps until resolution
+# Troubleshooting
+* When troubleshooting (working to fix issues), it's best to do _all_ of these steps until resolution
 * These workflows require ComfyUI to run. See https://youtu.be/2r3uM_b3zA8 for an install guide
 * Install **ComfyUI Manager** next - https://github.com/ltdrdata/ComfyUI-Manager
 * Need a model or checkpoint? See the resources section below!
