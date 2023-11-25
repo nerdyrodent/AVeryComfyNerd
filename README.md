@@ -80,7 +80,7 @@ Workflow | Description | Version
 <img src="LCM_LoRA_Compare.png" width="256px">|LCM LoRA vs Normal|1.5, SDXL, SSD-1B
 <img src="SD15_IPAdapterMask_Upscale.png" width="256px">|IPAdapter Attention Masking Example<br>**Video** https://youtu.be/riLmjBlywcg|1.5
 <img src="SD15_LCM_IPAdapter_Facefix.png" width="256px">|IPAdapter Attention Masking Example with extra toppings (LCM, Facefix)<br>**Video** https://youtu.be/riLmjBlywcg|1.5
-<img src="SVD_Basic_Upscale.png" width="256px">|SVD with a simple upscale<br>**Video** https://youtu.be/riLmjBlywcg|SVD
+<img src="SVD_Basic_Upscale.png" width="256px">|Stable Video Diffusion example with a simple upscale and frame interpolation|SVD
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
