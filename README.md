@@ -9,6 +9,7 @@ When troubleshooting (working to fix issues) - such as with your local custom no
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
 * These are just workflows - no custom nodes here, so no code to go wrong :) Scroll down to see the table of workflows and their descriptions.
+* Some workflows are _large_. Zoom out to see more of the canvas.
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing. This is the most common issue, so update now!
 * Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
 * If ComfyUI Manager can't find a node automatically, use the _search_ feature
