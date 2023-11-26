@@ -2,10 +2,12 @@
 A variety of ComfyUI related stuff. You'll need different models and custom nodes for each different workflow.
 
 # Troubleshooting
-* When troubleshooting (working to fix issues), it's best to do _all_ of these steps until resolution
-* These workflows require ComfyUI to run. See https://youtu.be/2r3uM_b3zA8 for an install guide
+When troubleshooting (working to fix issues) - such as with your local custom node installs, it's best to do _all_ of these steps until resolution.
+* These workflows require ComfyUI to run, so you'll need to install that first. See https://youtu.be/2r3uM_b3zA8 for an install guide
 * Install **ComfyUI Manager** next - https://github.com/ltdrdata/ComfyUI-Manager
 * Need a model or checkpoint? See the resources section below!
+* By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
+* Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
 * These are just workflows - no custom nodes here, so no code to go wrong :) Scroll down to see the table of workflows and their descriptions.
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing. This is the most common issue, so update now!
 * Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
@@ -13,8 +15,7 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 * Custom node still red after installing it? Remember to restart ComfyUI!
 * Custom node still giving an error? Check the GitHub page for that custom node - maybe someone else has a similar issue open?
 * Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager
-* By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
-* Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
+* Check the output when ComfyUI starts up as issues can show up there
 * Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
 * Sometimes custom nodes change functionality, so check for updates. Changes include:
