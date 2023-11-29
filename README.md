@@ -3,6 +3,7 @@ A variety of ComfyUI related stuff. You'll need different models and custom node
 
 # Troubleshooting
 When troubleshooting (working to fix issues) - such as with your local custom node installs, it's best to do _all_ of these steps until resolution.
+* Make sure you've installed the drivers for your graphics card
 * These workflows require ComfyUI to run, so you'll need to install that first. See https://youtu.be/2r3uM_b3zA8 for an install guide
 * Install **ComfyUI Manager** next - https://github.com/ltdrdata/ComfyUI-Manager
 * Need a model or checkpoint? See the resources section below!
