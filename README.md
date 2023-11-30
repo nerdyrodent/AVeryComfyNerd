@@ -8,7 +8,8 @@ When troubleshooting (working to fix issues) - such as with your local custom no
 * Install **ComfyUI Manager** next - https://github.com/ltdrdata/ComfyUI-Manager
 * Need a model or checkpoint? See the resources section below!
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
-* Don't mix SDXL and SD1.5 models unless stated (such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
+* _Don't mix SDXL and SD1.5 models_ (unless stated, such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
+* Don't try to use SDXL models in workflows not designed for SDXL - chances are they won't work!
 * These are just workflows - no custom nodes here, so no code to go wrong :) Scroll down to see the table of workflows and their descriptions.
 * Some workflows are _large_. Zoom out to see more of the canvas.
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing. This is the most common issue, so update now!
