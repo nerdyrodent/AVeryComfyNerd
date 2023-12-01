@@ -85,7 +85,7 @@ Workflow | Description | Version
 <img src="SD15_IPAdapterMask_Upscale.png" width="256px">|IPAdapter Attention Masking Example<br>**Video** https://youtu.be/riLmjBlywcg|1.5
 <img src="SD15_LCM_IPAdapter_Facefix.png" width="256px">|IPAdapter Attention Masking Example with extra toppings (LCM, Facefix)<br>**Video** https://youtu.be/riLmjBlywcg|1.5
 <img src="SVD_Basic_Upscale.png" width="256px">|Stable Video Diffusion example with a simple upscale and frame interpolation|SVD
-<img src="SDXL_Turbo_Basic.png" width="256px">|SDXL Turbo - 1 step diffusion!|SDXL Turbo
+<img src="SDXL_Turbo_Basic.png" width="256px">|SDXL Turbo - 1 step diffusion!|SDXL Turbo, SD2 Turbo
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
