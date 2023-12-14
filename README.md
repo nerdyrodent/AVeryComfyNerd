@@ -88,6 +88,7 @@ Workflow | Description | Version
 <img src="SVD_Basic_Upscale.png" width="256px">|Stable Video Diffusion example with a simple upscale and frame interpolation|SVD
 <img src="SDXL_Turbo_Basic.png" width="256px">|SDXL Turbo - 1 step diffusion!|SDXL Turbo, SD2 Turbo
 <img src="ComfyMagicAnimate.png" width="256px">|A very basic attempt at a "Comfy MagicAnimate". Needs more work :)<br>Links:<br>Magic Animate - https://github.com/magic-research/magic-animate<br>Magic Animate (Windows) - https://github.com/sdbds/magic-animate-for-windows<br>DreamingTulpa - https://twitter.com/dreamingtulpa/status/1730876691755450572<br>CocktailPeanut - https://twitter.com/cocktailpeanut/status/1732052909720797524<br>Google Colab - https://github.com/camenduru/MagicAnimate-colab<br>Huggingface Space - https://huggingface.co/spaces/zcxu-eric/magicanimate<br>Vid2DensePose - https://github.com/Flode-Labs/vid2densepose<br><br>Model Downloads for the MagicAnimate Gradio App:<br>`mkdir -p magic-animate/pretrained_models`<br>`cd magic-animate/pretrained_models`<br>`git lfs clone https://huggingface.co/runwayml/stable-diffusion-v1-5 -b fp16`<br>`git lfs clone https://huggingface.co/stabilityai/sd-vae-ft-mse`<br>`git lfs clone https://huggingface.co/zcxu-eric/MagicAnimate`<br>**Video** - https://youtu.be/td27SyA9M80| SD 1.5
+<img src="BatchImageAnimate.png" width="256px">|Steerable Motion - Image Batch with AnimateDiff| SD 1.5
 
 # Custom Node List
 The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
