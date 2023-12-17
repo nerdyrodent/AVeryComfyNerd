@@ -93,8 +93,9 @@ Workflow | Description | Version
 <img src="Renoiser.png" width="256px">|Unsampler - Turn images into noise and back again, as modified by your prompts!| SD 1.5
 
 # Custom Node List
-The current custom node list is shown in the image below. This is a complete list. Not all nodes are used in workflows.<br>
-Install custom nodes using ComfyUI manager<br>
+* Screenshots of my installed custom nodes for reference. Not all nodes are used in workflows.<br>
+* Install custom nodes using ComfyUI manager<br>
+* See the Troubleshooting section if you have errors with your local ComfyUI install<br>
 <img src="ComfyUI_Custom_1.png" width="720px"><br>
 <img src="ComfyUI_Custom_2.png" width="720px"><br>
 <img src="ComfyUI_Custom_3.png" width="720px"><br>
