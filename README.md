@@ -63,17 +63,17 @@ When troubleshooting (working to fix issues) - such as with your local custom no
 * Make sure you've installed the drivers for your graphics card
 * In ComfyUI the image IS the workflow.
 * These workflows require ComfyUI to run, so you'll need to install that first. See https://youtu.be/2r3uM_b3zA8 for an install guide
-* These are just workflows - no custom nodes here, so no code to go wrong :) Scroll down to see the table of workflows and their descriptions.
 * Install **ComfyUI Manager** next - https://github.com/ltdrdata/ComfyUI-Manager
-* Need a model or checkpoint? See the resources section below!
+* Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
+* If ComfyUI Manager can't find a node automatically, use the _search_ feature
+* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing. This is the most common issue, so update now!
+* These are just workflows - no custom nodes here, so no code to go wrong :) Scroll down to see the table of workflows and their descriptions.
+* Need a model or checkpoint? See the resources section!
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * _Don't mix SDXL and SD1.5 models_ (unless stated, such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
 * Don't try to use SDXL models in workflows not designed for SDXL - chances are they won't work!
 * Ensure your model files aren't corrupt - try a fresh download if a particular model gives errors
 * Some workflows are _large_. Zoom out to see more of the canvas.
-* __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing. This is the most common issue, so update now!
-* Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
-* If ComfyUI Manager can't find a node automatically, use the _search_ feature
 * Custom node still red after installing it? Remember to restart ComfyUI!
 * Custom node still giving an error? Check the GitHub page for that custom node - maybe someone else has a similar issue open?
 * Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager
