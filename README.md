@@ -1,5 +1,5 @@
 # Overview
-A variety of ComfyUI related stuff. You'll need different models and custom nodes for each different workflow. This page has multiple headings - scroll down to see more!
+A variety of ComfyUI related workflows and other stuff. You'll need different models and custom nodes for each different workflow. As this page has multiple headings you'll need to scroll down to see more.
 
 # Resources
 You'll need models and other resources for ComfyUI. Check the table below for links to everything from ControlNet models to Upscalers
@@ -67,7 +67,7 @@ When troubleshooting (working to fix issues) - such as with your local custom no
 * Use **ComfyUI Manager** to install missing custom nodes by clicking "Install Missing Custom Nodes"
 * If ComfyUI Manager can't find a node automatically, use the _search_ feature
 * __Be sure to keep ComfyUI updated regularly__ - including all custom nodes. Old versions may result in errors appearing. This is the most common issue, so update now!
-* These are just workflows - no custom nodes here, so no code to go wrong :) Scroll down to see the table of workflows and their descriptions.
+* These are just workflows - no custom nodes here, so no code to go wrong :)
 * Need a model or checkpoint? See the resources section!
 * By default, models are saved in subdirectories under ``ComfyUI/models``, though some custom nodes have their own models directory.
 * _Don't mix SDXL and SD1.5 models_ (unless stated, such as SDXL needing the SD 1.5 vision model) - chances are you'll get an error!
