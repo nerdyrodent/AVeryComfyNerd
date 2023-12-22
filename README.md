@@ -13,7 +13,7 @@ Text-to-Image models | Text-2-image models | https://huggingface.co/models?pipel
 SSD-1B | Text2-image model | https://huggingface.co/segmind/SSD-1B
 ControlNet Models | ControlNet Models | https://huggingface.co/lllyasviel/sd_control_collection/tree/main<br>https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
 QR Code Monster Control Net | ControlNet Model | https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster
-IP Adpater | Github Repo | https://github.com/tencent-ailab/IP-Adapter
+IP Adapter | Github Repo | https://github.com/tencent-ailab/IP-Adapter
 IP Adapter models | Models | https://huggingface.co/h94/IP-Adapter
 T2I Adapter | Github Repo | https://github.com/TencentARC/T2I-Adapter
 Control LoRA | Control Models | https://huggingface.co/stabilityai/control-lora
