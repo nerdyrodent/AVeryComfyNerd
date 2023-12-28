@@ -87,7 +87,7 @@ When troubleshooting (working to fix issues) - such as with your local custom no
   * The original IPAdapter is becoming deprecated
 * The Microsoft Windows portable version of ComfyUI apparently has issues with various custom nodes, whereas normal installs are OK. Unknown error? Try a normal install!
 * Need more help? See this [Playlist with loads of ComfyUI guides](https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa)
-* Need even more help? Drrop me a DM on https://www.patreon.com/NerdyRodent
+* Need even more help? Drop me a DM on https://www.patreon.com/NerdyRodent
 
 # Updating / Installing Custom Nodes
 * Use ComfyUI Manager to install and update custom nodes with ease!
