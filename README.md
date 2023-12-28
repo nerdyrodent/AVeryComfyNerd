@@ -84,7 +84,7 @@ When troubleshooting (working to fix issues) - such as with your local custom no
 * Sometimes custom nodes change functionality, so check for updates. Changes include:
   * Segement anything - mask output inverted & now returns multiple images
   * Dynamic Thresholding - output different
-  * The original IPAdapter is becoming deprecated
+  * The original IPAdapter ('IPAdapter-ComfyUI') is deprecated and has been moved to the legacy channel.
 * The Microsoft Windows portable version of ComfyUI apparently has issues with various custom nodes, whereas normal installs are OK. Unknown error? Try a normal install!
 * Need more help? See this [Playlist with loads of ComfyUI guides](https://www.youtube.com/playlist?list=PLjC8P1vEncQDahWnl_WKYsjF_tmIDXWEa)
 * Need even more help? Drop me a DM on https://www.patreon.com/NerdyRodent
