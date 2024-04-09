@@ -80,7 +80,7 @@ When troubleshooting (working to fix issues) - such as with your local custom no
 * Not sure where the GitHub page is for a custom node? You can click on it via ComfyUI Manager
 * Check the output when ComfyUI starts up as issues can show up there
 * Try updating custom nodes manually (`git pull`)
-* Sometimes custom nodes make breaking changes and the same node may need to be re-created. Typically the custom node GitHub page has such information.
+* Over time, some custom nodes implement breaking changes so nodes may need to be replaced. Often this can be done with "fix node". Typically the custom node GitHub page has additional information.
 * Sometimes custom nodes just break! Check the github page for the custom node causing any issues for more information and to raise issues
 * Sometimes custom nodes change functionality, so check for updates. Changes include:
   * Segement anything - mask output inverted & now returns multiple images
