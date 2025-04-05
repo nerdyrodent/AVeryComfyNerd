@@ -58,6 +58,7 @@ Workflow | Description | Version
 <img src="workflows/SD15/BatchImageAnimate.png" width="256px">|Steerable Motion - Image Batch with AnimateDiff<br>Video guide - https://youtu.be/bH-56e3cR2g| SD 1.5
 <img src="workflows/SD15/Renoiser.png" width="256px">|Unsampler - Turn images into noise and back again, as modified by your prompts!<br>Video guide - https://youtu.be/qW1I7in1WL0| SD 1.5, SDXL
 <img src="workflows/SDXL/Refacer.png" width="256px">|Refacer - Change the style of any face!<br>Video guide - https://youtu.be/r7Iz8Ps7R2s| SDXL
+<img src="workflows/WAN/WAN-FUN-Control-Basic.png" width="256px">|!<br>Video guide - https://youtu.be/ComingSoon | WAN
 
 # Troubleshooting
 When troubleshooting (working to fix issues) - such as with your local custom node installs, it's best to do _all_ of these steps until resolution.
